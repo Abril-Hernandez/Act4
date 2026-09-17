@@ -1,1 +1,2 @@
-# Original de Cannon.py
+# Se cambió la velocidad del tiro
+
